@@ -1,0 +1,17 @@
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\bin\Debug\net8.0\Sogs.Utility.deps.json
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\bin\Debug\net8.0\Sogs.Utility.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\bin\Debug\net8.0\Sogs.Utility.pdb
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\obj\Debug\net8.0\Sogs.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\obj\Debug\net8.0\Sogs.Utility.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\obj\Debug\net8.0\Sogs.Utility.AssemblyInfo.cs
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\obj\Debug\net8.0\Sogs.Utility.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\obj\Debug\net8.0\Sogs.Utility.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\obj\Debug\net8.0\refint\Sogs.Utility.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\obj\Debug\net8.0\Sogs.Utility.pdb
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\obj\Debug\net8.0\ref\Sogs.Utility.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\bin\Debug\net8.0\Sogs.DTO.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\bin\Debug\net8.0\Sogs.Model.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\bin\Debug\net8.0\Sogs.DTO.pdb
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\bin\Debug\net8.0\Sogs.Model.pdb
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\obj\Debug\net8.0\Sogs.Utility.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Utility\obj\Debug\net8.0\Sogs.Uti.D4096C9B.Up2Date

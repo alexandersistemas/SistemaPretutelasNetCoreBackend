@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\bin\Debug\net8.0\Sogs.Model.deps.json
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\bin\Debug\net8.0\Sogs.Model.runtimeconfig.json
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\bin\Debug\net8.0\Sogs.Model.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\bin\Debug\net8.0\Sogs.Model.pdb
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\obj\Debug\net8.0\Sogs.Model.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\obj\Debug\net8.0\Sogs.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\obj\Debug\net8.0\Sogs.Model.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\obj\Debug\net8.0\Sogs.Model.AssemblyInfo.cs
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\obj\Debug\net8.0\Sogs.Model.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\obj\Debug\net8.0\Sogs.Model.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\obj\Debug\net8.0\refint\Sogs.Model.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\obj\Debug\net8.0\Sogs.Model.pdb
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\obj\Debug\net8.0\Sogs.Model.genruntimeconfig.cache
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.Model\obj\Debug\net8.0\ref\Sogs.Model.dll

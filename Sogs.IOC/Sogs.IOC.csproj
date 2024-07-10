@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sogs.BLL\Sogs.BLL.csproj" />
+    <ProjectReference Include="..\Sogs.DAL\Sogs.DAL.csproj" />
+    <ProjectReference Include="..\Sogs.Utility\Sogs.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

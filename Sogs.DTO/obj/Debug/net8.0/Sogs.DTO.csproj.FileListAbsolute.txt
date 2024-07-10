@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\bin\Debug\net8.0\Sogs.DTO.deps.json
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\bin\Debug\net8.0\Sogs.DTO.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\bin\Debug\net8.0\Sogs.DTO.pdb
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\obj\Debug\net8.0\Sogs.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\obj\Debug\net8.0\Sogs.DTO.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\obj\Debug\net8.0\Sogs.DTO.AssemblyInfo.cs
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\obj\Debug\net8.0\Sogs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\obj\Debug\net8.0\Sogs.DTO.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\obj\Debug\net8.0\refint\Sogs.DTO.dll
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\obj\Debug\net8.0\Sogs.DTO.pdb
+C:\Users\alexa\source\repos\ApiSOGS\Sogs.DTO\obj\Debug\net8.0\ref\Sogs.DTO.dll

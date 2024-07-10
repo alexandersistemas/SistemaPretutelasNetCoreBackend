@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\ApiSOGS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7298CCF5-D9D5-4CD9-9513-F2B0662DB818}|Sogs.API\\Sogs.API.csproj|c:\\users\\alexa\\source\\repos\\apisogs\\sogs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7298CCF5-D9D5-4CD9-9513-F2B0662DB818}|Sogs.API\\Sogs.API.csproj|solutionrelative:sogs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\ApiSOGS\\Sogs.API\\Program.cs",
+              "RelativeDocumentMoniker": "Sogs.API\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\ApiSOGS\\Sogs.API\\Program.cs",
+              "RelativeToolTip": "Sogs.API\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwDIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:52:30.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
